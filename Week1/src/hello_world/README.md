@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Flutter Practicum Report – Week 01
+This document is a practicum report written in Markdown. It explains the installation process, answers the assignment questions, provides result analysis, and documents challenges encountered along with their solutions.
