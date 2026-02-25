@@ -3,7 +3,7 @@
 **Major:** *D-IV Business Information System*  
 **Class:** *2G* 
 
-# Flutter Practicum Report – Week 01
+# Flutter Practicum Report – Week 02
   This document is a comprehensive report for Week 02 practicum, covering variable declarations, data types, and various operators in Dart through multiple study cases and practical assignments.
 
 ---
