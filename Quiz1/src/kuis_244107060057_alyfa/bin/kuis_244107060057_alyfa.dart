@@ -10,4 +10,14 @@ void main(List<String> arguments) {
   hargaBarang.add(nilaiUnikNIM);
 
   String? pesanDiskon;
+
+  double totalAwal = hitungTotal(hargaBarang);
+}
+
+double hitungTotal(List<double> daftarHarga) {
+  double total = 0;
+  for (var harga in daftarHarga) {
+    total += harga;
+  }
+  return total;
 }
