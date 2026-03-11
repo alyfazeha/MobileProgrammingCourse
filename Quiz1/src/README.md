@@ -1,4 +1,6 @@
-**Name:** *Alyfa Zahra Qurrota Aini* **NIM:** *244107060057* # Quiz 1: Personalized Store Discount System
+**Name:** *Alyfa Zahra Qurrota Aini* **NIM:** *244107060057* 
+
+# Quiz 1: Personalized Store Discount System
 
 This project is a Dart-based application designed to calculate store discounts. The system is personalized using the student's identity, where the last three digits of the NIM (Student ID) directly influence the total transaction amount.
 
