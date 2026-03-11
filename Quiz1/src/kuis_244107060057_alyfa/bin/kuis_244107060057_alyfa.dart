@@ -24,6 +24,16 @@ void main(List<String> arguments) {
     diskon = 0;
     pesanDiskon = "Tidak Ada Diskon";
   }
+
+  double besarDiskon = totalAwal * diskon;
+  double totalAkhir = totalAwal - besarDiskon;
+
+  print("Nama : $nama");
+  print("NIM  : $nim");
+  print("Total Belanja Awal : Rp $totalAwal");
+  print("Keterangan Diskon  : ${pesanDiskon!}");
+  print("Besar Diskon       : Rp $besarDiskon");
+  print("Total Belanja Akhir: Rp $totalAkhir");
 }
 
 double hitungTotal(List<double> daftarHarga) {
