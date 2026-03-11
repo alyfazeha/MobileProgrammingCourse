@@ -12,6 +12,18 @@ void main(List<String> arguments) {
   String? pesanDiskon;
 
   double totalAwal = hitungTotal(hargaBarang);
+
+  double diskon = 0;
+  if (totalAwal > 200000) {
+    diskon = 0.10;
+    pesanDiskon = "Diskon 10% Aktif";
+  } else if (totalAwal >= 100000) {
+    diskon = 0.05;
+    pesanDiskon = "Diskon 5% Aktif";
+  } else {
+    diskon = 0;
+    pesanDiskon = "Tidak Ada Diskon";
+  }
 }
 
 double hitungTotal(List<double> daftarHarga) {
