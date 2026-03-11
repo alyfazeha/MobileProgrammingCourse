@@ -8,4 +8,6 @@ void main(List<String> arguments) {
 
   List<double> hargaBarang = [55000, 35500, 15000, 60000, 7500];
   hargaBarang.add(nilaiUnikNIM);
+
+  String? pesanDiskon;
 }
