@@ -58,6 +58,15 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Disney Cruise Line adalah layanan kapal pesiar bertema Disney yang menggabungkan liburan mewah dengan hiburan khas Disney, seperti pertunjukan bergaya Broadway, pertemuan dengan karakter ikonik, serta berbagai fasilitas ramah keluarga di atas kapal. Cruise ini menawarkan pengalaman liburan all-in-one ke berbagai destinasi dunia dengan suasana yang imersif dan penuh nuansa cerita Disney, sehingga cocok untuk keluarga, pasangan, maupun penggemar Disney.\n\nAlyfa Zahra Qurrota Aini (244107060057)',
+        softWrap: true,
+        textAlign: TextAlign.justify,
+      ),
+    );
+
     return MaterialApp(
       title: 'Flutter layout : Alyfa Zahra Qurrota Aini (244107060057)',
       home: Scaffold(
@@ -68,6 +77,7 @@ class MyApp extends StatelessWidget {
           children: [
             titleSection,
             buttonSection,
+            textSection,
           ],
         ),
       ),
