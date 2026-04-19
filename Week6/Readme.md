@@ -8,7 +8,9 @@
 
 ### 1. Persiapan Proyek (Make a New Project)
 Langkah awal dimulai dengan membuat proyek Flutter baru menggunakan Visual Studio Code. Struktur folder standar Flutter dihasilkan untuk mendukung pengembangan aplikasi cross-platform.
-![1. Make a New Project](docs/layout_flutter/1.%20Make%20a%20New%20Project.png)
+<p align="center">
+  <img src="docs/layout_flutter/1. Make a New Project.png" alt="1. Make a New Project" width="300">
+</p>
 
 ### 2. Konfigurasi Dasar (Hello World)
 Setelah proyek dibuat, dilakukan modifikasi pada file `main.dart` untuk menampilkan teks sederhana "Hello World" di tengah layar sebagai verifikasi bahwa environment berjalan dengan baik.
