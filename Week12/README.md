@@ -39,17 +39,17 @@ Users can search for different cities, and the app updates the display with accu
 ### 1. Firebase & CLI Setup
 | Firebase Dashboard | Auth Configuration | CLI Success |
 | :---: | :---: | :---: |
-| ![Firebase](../../docs/1.%20Create%20Project%20Weather%20App%20in%20Firebase.png) | ![Auth](../../docs/2.%20Setting%20Authentification.png) | ![CLI](../../docs/4.%20CLI%20Success.png) |
+| ![Firebase](docs/1.%20Create%20Project%20Weather%20App%20in%20Firebase.png) | ![Auth](docs/2.%20Setting%20Authentification.png) | ![CLI](docs/4.%20CLI%20Success.png) |
 
 ### 2. User Interface & Login
 | User Management | Login Page UI |
 | :---: | :---: |
-| ![Users](../../docs/3.%20Adding%20New%20Account%20(Email%20n%20Password).png) | ![Login](../../docs/5.%20Login%20Page.png) |
+| ![Users](docs/3.%20Adding%20New%20Account%20(Email%20n%20Password).png) | ![Login](docs/5.%20Login%20Page.png) |
 
 ### 3. Final Result (Weather API)
 | Weather in East Kalimantan, Jakarta, and Malang|
 | :---: |
-| ![Kaltim, Jakarta, Malang](../../docs/6.%20After%20Success%20Login%20(Can%20See%20Weather).jpg) |
+| ![Kaltim, Jakarta, Malang](docs/6.%20After%20Success%20Login%20(Can%20See%20Weather).jpg) |
 
 ---
 ## Conclusion
