@@ -47,9 +47,9 @@ Users can search for different cities, and the app updates the display with accu
 | ![Users](../../docs/3.%20Adding%20New%20Account%20(Email%20n%20Password).png) | ![Login](../../docs/5.%20Login%20Page.png) |
 
 ### 3. Final Result (Weather API)
-| Weather in East Kalimantan | Weather in Jakarta | Weather in Malang |
-| :---: | :---: | :---: |
-| ![Kaltim](../../docs/6.%20After%20Success%20Login%20(Can%20See%20Weather).jpg) | ![Jakarta](weather_jakarta.png) | ![Malang](weather_malang.png) |
+| Weather in East Kalimantan, Jakarta, and Malang|
+| :---: |
+| ![Kaltim, Jakarta, Malang](../../docs/6.%20After%20Success%20Login%20(Can%20See%20Weather).jpg) |
 
 ---
 ## Conclusion
