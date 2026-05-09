@@ -11,7 +11,7 @@ class WeatherPage extends StatefulWidget {
 }
 
 class _WeatherPageState extends State<WeatherPage> {
-  final String apiKey = "ae7082f1c2eaf88832f9effa537f21c";
+  final String apiKey = "ae7082f1c2eaf88832f93effa537f21c";
   String cityName = "Malang";
   Map<String, dynamic>? weatherData;
   bool isLoading = true;
